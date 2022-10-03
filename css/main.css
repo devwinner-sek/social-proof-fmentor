@@ -290,8 +290,6 @@ h1
   }
   
 
-  /*Card info end ****************************************/
-
   /*Card content item start ****************************************/
   
   .card-item1, .card-item2, .card-item3, .card-item4
@@ -415,7 +413,7 @@ h1
     text-align: center;
     letter-spacing: -0.633333px;
     color: #927B91;
-    margin-bottom: 30px;
+    margin-bottom: 80px;
     margin-top: 30px;
 
   }
